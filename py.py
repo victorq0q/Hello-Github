@@ -1,2 +1,5 @@
-print("Hello GitHub")
-#oi
+def Programmer():
+    print("Hello world")
+
+
+Programmer()
